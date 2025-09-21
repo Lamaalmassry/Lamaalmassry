@@ -2,11 +2,9 @@
 <div align="center">
 
 # Hey There! 👋, I'm Lama A. Almassry  
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&pause=1000&center=true&vCenter=true&width=1000&lines=☁️+Cloud☁️|and|DevSecOps|Engineer&color=FF0000|FF7F00|FFFF00|00FF00" alt="Cloud and DevSecOps typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&center=true&vCenter=true&width=1000&lines=☁️+Cloud+and+DevSecOps+Engineer☁️&color=FF0000,FF7F00,FFFF00,00FF00,00FFFF,0000FF,8A2BE2,FF1493,00CED1,FFD700&colorRandom=true" alt="Cloud and DevSecOps typing"/>
 </p>
-
 
 <a href="https://linkedin.com/in/lama-almassry">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
