@@ -4,14 +4,7 @@
 # Hey There! 👋, I'm Lama A. Almassry  
 
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120">
-    <text x="50" y="80" font-family="Fira Code, monospace" font-size="60" font-weight="bold">
-      <tspan fill="#FF0000">☁️ Cloud</tspan>
-      <tspan dx="20" fill="#FF7F00">and</tspan>
-      <tspan dx="20" fill="#FFFF00">DevSecOps</tspan>
-      <tspan dx="20" fill="#00FF00">Engineer ☁️</tspan>
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=64&pause=1500&center=true&vCenter=true&width=1000&lines=☁️+Cloud+and+DevSecOps+☁️&color=FF0000,FF7F00,FFFF00,00FF00,00FFFF,0000FF,8A2BE2,FF1493,00CED1,FFD700" alt="Cloud and DevSecOps typing"/>
 </p>
 
 
