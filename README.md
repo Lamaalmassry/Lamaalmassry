@@ -5,21 +5,11 @@
 
 <p align="center">
   <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120">
-    <style>
-      .word { font: bold 60px Fira Code, monospace; }
-      .c1 { fill: #FF0000; }
-      .c2 { fill: #FF7F00; }   
-      .c3 { fill: #FFFF00; }  
-      .c4 { fill: #00FF00; } 
-      .c5 { fill: #00FFFF; }  
-      .c6 { fill: #0000FF; }
-      .c7 { fill: #8A2BE2; }   
-    </style>
-    <text x="50" y="80" class="word">
-      <tspan class="c1">☁️ Cloud</tspan>
-      <tspan dx="20" class="c2">and</tspan>
-      <tspan dx="20" class="c3">DevSecOps</tspan>
-      <tspan dx="20" class="c4">Engineer ☁️</tspan>
+    <text x="50" y="80" font-family="Fira Code, monospace" font-size="60" font-weight="bold">
+      <tspan fill="#FF0000">☁️ Cloud</tspan>
+      <tspan dx="20" fill="#FF7F00">and</tspan>
+      <tspan dx="20" fill="#FFFF00">DevSecOps</tspan>
+      <tspan dx="20" fill="#00FF00">Engineer ☁️</tspan>
     </text>
   </svg>
 </p>
