@@ -1,16 +1,18 @@
+
 <div align="center">
 
 # Hey There! 👋, I'm Lama A. Almassry  
 
 <a href="https://linkedin.com/in/lama-almassry">
-  <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://medium.com/@massrylama">
-  <img src="https://img.icons8.com/ios-filled/96/000000/medium-logo.png" alt="Medium"/>
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="40"/>
 </a>
 
 </div>
+
 
 ---
 
