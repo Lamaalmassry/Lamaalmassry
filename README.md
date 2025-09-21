@@ -3,7 +3,7 @@
 
 # Hey There! 👋, I'm Lama A. Almassry  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FF0000&center=true&vCenter=true&width=500&lines=Cloud+Engineer;DevSecOps+Specialist;AWS+Infrastructure+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=☁️+Cloud+and+DevSecOps+☁️&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,8F00FF&colorRandom=true" />
 </p>
 
 <a href="https://linkedin.com/in/lama-almassry">
