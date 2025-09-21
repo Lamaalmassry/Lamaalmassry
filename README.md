@@ -2,6 +2,9 @@
 <div align="center">
 
 # Hey There! 👋, I'm Lama A. Almassry  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=FF0000&center=true&vCenter=true&width=500&lines=Cloud+Engineer;DevSecOps+Specialist;AWS+Infrastructure+Engineer" />
+</p>
 
 <a href="https://linkedin.com/in/lama-almassry">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
