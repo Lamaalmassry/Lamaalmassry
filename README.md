@@ -4,8 +4,26 @@
 # Hey There! 👋, I'm Lama A. Almassry  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&center=true&vCenter=true&width=1000&lines=☁️+Cloud+and+DevSecOps+Engineer☁️&color=FF0000,FF7F00,FFFF00,00FF00,00FFFF,0000FF,8A2BE2,FF1493,00CED1,FFD700&colorRandom=true" alt="Cloud and DevSecOps typing"/>
+  <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120">
+    <style>
+      .word { font: bold 60px Fira Code, monospace; }
+      .c1 { fill: #FF0000; }
+      .c2 { fill: #FF7F00; }   
+      .c3 { fill: #FFFF00; }  
+      .c4 { fill: #00FF00; } 
+      .c5 { fill: #00FFFF; }  
+      .c6 { fill: #0000FF; }
+      .c7 { fill: #8A2BE2; }   
+    </style>
+    <text x="50" y="80" class="word">
+      <tspan class="c1">☁️ Cloud</tspan>
+      <tspan dx="20" class="c2">and</tspan>
+      <tspan dx="20" class="c3">DevSecOps</tspan>
+      <tspan dx="20" class="c4">Engineer ☁️</tspan>
+    </text>
+  </svg>
 </p>
+
 
 <a href="https://linkedin.com/in/lama-almassry">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
