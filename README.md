@@ -52,6 +52,16 @@ A DevSecOps Engineer specializing in designing, automating, and securing cloud i
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LamaAlmassry&theme=dracula" alt="GitHub Streak"/>
 </div>
 
+---
+
+### 🏅 Certifications
+*(You can add your certifications here. Example below. )*
+
+<p align="center">
+  <a href="[LINK_TO_CERT_1]"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de3977ae5f/image.png" alt="AWS Certified Solutions Architect – Associate" width="100"/></a>
+  &nbsp;&nbsp;
+  <a href="[LINK_TO_CERT_2]"><img src="https://images.credly.com/size/110x110/images/f275a321-9323-4366-a993-363b333e3814/image.png" alt="HashiCorp Certified: Terraform Associate" width="100"/></a>
+</p>
 
 ---
 
@@ -66,7 +76,10 @@ A DevSecOps Engineer specializing in designing, automating, and securing cloud i
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="40"/>
   </a>
   &nbsp;&nbsp;
-
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+  </a>
+</p>
 
 <div align="center">
   <p>✨ Thank you for visiting my profile! ✨</p>
