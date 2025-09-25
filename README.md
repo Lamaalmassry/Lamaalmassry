@@ -1,3 +1,5 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Y0ZWU5ZDU4Yzc5YWM3YjM2ZWMwZDI3ZDYyZDEyZWYwNmFhY2EwZSZlcD12R3lfbGFuZ3Vf" width="300" alt="DevSecOps GIF"/>
 
 # Hey There! 👋, I'm Lama A. Almassry
 <p align="center">
@@ -20,18 +22,57 @@ A DevSecOps Engineer specializing in designing, automating, and securing cloud i
 ### 🛠️ Tech Stack & Skills
 
 <p align="center">
+  <strong>Cloud Platforms:</strong>  
+
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+    
+
+  <strong>IaC & Configuration Management:</strong>  
+
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="CloudFormation"/>
+  <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" alt="Pulumi"/>
+    
+
+  <strong>Containers & Orchestration:</strong>  
+
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white" alt="Amazon ECS"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+    
+
+  <strong>CI/CD & Automation:</strong>  
+
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
+    
+
+  <strong>Security & Secrets Management:</strong>  
+
   <img src="https://img.shields.io/badge/Checkov-5A4493?style=for-the-badge&logo=checkov&logoColor=white" alt="Checkov"/>
+  <img src="https://img.shields.io/badge/Trivy-0C1D5A?style=for-the-badge&logo=trivy&logoColor=white" alt="Trivy"/>
+  <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="HashiCorp Vault"/>
+  <img src="https://img.shields.io/badge/AWS_KMS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS KMS"/>
+    
+
+  <strong>Monitoring & Logging:</strong>  
+
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="HashiCorp Vault"/>
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/>
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ELK Stack"/>
+    
+
+  <strong>Scripting & Languages:</strong>  
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 </p>
 
 ---
@@ -39,13 +80,13 @@ A DevSecOps Engineer specializing in designing, automating, and securing cloud i
 ### 🏆 GitHub Trophies & Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LamaAlmassry&theme=dracula&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=LamaAlmassry&theme=tokyonight&style=flat&column=7" alt="GitHub Trophies"/>
     
 
-  <img src="https://github-readme-stats.vercel.app/api?username=LamaAlmassry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Lama's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LamaAlmassry&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Lama's GitHub Stats"/>
     
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LamaAlmassry&theme=dracula" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=LamaAlmassry&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
