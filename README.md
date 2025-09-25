@@ -1,122 +1,77 @@
-<div align="center">
-  <a href="https://github.com/LamaAlmassry">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Y0ZWU5ZDU4Yzc5YWM3YjM2ZWMwZDI3ZDYyZDEyZWYwNmFhY2EwZSZlcD12R3lfbGFuZ3Vf" width="300" alt="DevSecOps GIF"/>
-  </a>
-
-# Hey There! 👋, I'm Lama A. Almassry
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&center=true&vCenter=true&width=1000&lines=☁️+Cloud+and+DevSecOps+Engineer+☁️&color=FF0000,FF7F00,FFFF00,00FF00,00FFFF,0000FF,8A2BE2,FF1493,00CED1,FFD700&colorRandom=true" alt="Cloud and DevSecOps typing"/>
-</p>
-
+<div id="header" align="center">
+  <h1>
+    Hey There, I'm Lama Almassry
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <p>
+    A DevSecOps and Cloud Engineer passionate about building secure, scalable, and resilient infrastructure.
+  </p>
+  
+  <p align="center">
+    <a href="https://linkedin.com/in/lama-almassry"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://medium.com/@massrylama"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  </p>
 </div>
 
 ---
 
-### 💫 About Me
-A DevSecOps Engineer specializing in designing, automating, and securing cloud infrastructure. I have hands-on experience with **AWS, GCP, and Azure**, with a strong focus on implementing security best practices.
+### 🚀 Featured Projects
 
-- 🎯 Achieved **99.99% uptime** for critical systems through robust and resilient architecture.
-- 💰 Reduced operational costs by **45%** through automation and resource optimization.
-- ❤️ Passionate about **DevSecOps, SRE practices, RBAC, Secrets Management, and Network Policies**.
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Project 1: Secure CI/CD Pipeline for Microservices</h3>
+        <p align="center">
+          Designed and implemented a fully automated, secure CI/CD pipeline on AWS using GitHub Actions, Terraform, and Checkov. Reduced deployment time by 60% and identified 95% of IaC vulnerabilities before production.
+            
+
+          <a href="[LINK_TO_PROJECT_1]"><b>View Project</b></a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Project 2: Kubernetes Cost Optimization</h3>
+        <p align="center">
+          Developed a strategy for optimizing Kubernetes cluster costs on GCP by implementing cluster autoscaling, rightsizing resource requests, and leveraging spot instances. Achieved a 45% cost reduction.
+            
+
+          <a href="[LINK_TO_PROJECT_2]"><b>View Project</b></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 🌱 What I'm Currently Working On
-- 🔭 Building secure CI/CD pipelines integrated with security scanning tools like **Checkov** and **Trivy**.
-- 🚀 Exploring advanced **Kubernetes** solutions for large-scale container orchestration.
-- 🛡️ Implementing network security policies in Kubernetes using **Calico**.
-
----
-
-### 🚀 Future Goals
-- 🎓 Pursuing advanced cloud security certifications, such as **AWS Certified Security - Specialty**.
-- 🤖 Contributing to open-source projects in the DevSecOps space.
-- ✍️ Writing in-depth technical articles on Secrets Management and Infrastructure as Code (IaC ).
-
----
-
-### 🛠️ Tech Stack & Skills
+### 🛠️ My Tech Stack
 
 <table>
   <tr>
-    <td align="center"><strong>Cloud Platforms</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-      <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
-      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+    <td valign="top" width="50%">
+      <h3 align="center">Core Technologies</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform"/>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+      </p>
     </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Infrastructure as Code (IaC )</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-      <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="CloudFormation"/>
-      <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Containers & Orchestration</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-      <img src="https://img.shields.io/badge/Fargate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Fargate"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>CI/CD & Scripting</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Security & Monitoring</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Checkov-5A4493?style=for-the-badge&logo=checkov&logoColor=white" alt="Checkov"/>
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-      <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="HashiCorp Vault"/>
+    <td valign="top" width="50%">
+      <h3 align="center">Areas of Expertise</h3>
+      <p align="center">
+        <code>Cloud Architecture</code> <code>CI/CD Automation</code> <code>Infrastructure as Code (IaC )</code> <code>Security Scanning</code> <code>Monitoring & Logging</code> <code>Cost Optimization</code>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LamaAlmassry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Lama's GitHub Stats"/>
-    
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamaAlmassry&layout=compact&theme=dracula&langs_count=10" alt="Top Languages"/>
-    
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LamaAlmassry&theme=dracula" alt="GitHub Streak"/>
-</div>
-
----
-
-### 📫 Get in Touch
+### 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://linkedin.com/in/lama-almassry">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://medium.com/@massrylama">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/LamaAlmassry">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=LamaAlmassry&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Lama's GitHub Stats"/>
 </p>
-
-<div align="center">
-  <p>✨ Thank you for visiting my profile! ✨</p>
-</div>
