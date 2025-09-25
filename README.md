@@ -1,63 +1,121 @@
-
 <div align="center">
+  <a href="https://github.com/LamaAlmassry">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Y0ZWU5ZDU4Yzc5YWM3YjM2ZWMwZDI3ZDYyZDEyZWYwNmFhY2EwZSZlcD12R3lfbGFuZ3Vf" width="300" alt="DevSecOps GIF"/>
+  </a>
 
-# Hey There! 👋, I'm Lama A. Almassry  
+# Hey There! 👋, I'm Lama A. Almassry
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&center=true&vCenter=true&width=1000&lines=☁️+Cloud+and+DevSecOps+Engineer☁️&color=FF0000,FF7F00,FFFF00,00FF00,00FFFF,0000FF,8A2BE2,FF1493,00CED1,FFD700&colorRandom=true" alt="Cloud and DevSecOps typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&center=true&vCenter=true&width=1000&lines=☁️+Cloud+and+DevSecOps+Engineer+☁️&color=FF0000,FF7F00,FFFF00,00FF00,00FFFF,0000FF,8A2BE2,FF1493,00CED1,FFD700&colorRandom=true" alt="Cloud and DevSecOps typing"/>
 </p>
 
-<a href="https://linkedin.com/in/lama-almassry">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://medium.com/@massrylama">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="40"/>
-</a>
-
 </div>
-
 
 ---
 
 ### 💫 About Me
-DevSecOps Engineer ☁️ | AWS, GCP, Azure | Terraform, Kubernetes, CI/CD | Cloud Security Enthusiast  
+A DevSecOps Engineer specializing in designing, automating, and securing cloud infrastructure. I have hands-on experience with **AWS, GCP, and Azure**, with a strong focus on implementing security best practices.
 
-I specialize in **designing, automating, and securing cloud infrastructure**, achieving **99.99% uptime** and reducing costs by **45%**.  
-Passionate about **DevSecOps, SRE practices, RBAC, Secrets Management, and Network Policies**.
+- 🎯 Achieved **99.99% uptime** for critical systems through robust and resilient architecture.
+- 💰 Reduced operational costs by **45%** through automation and resource optimization.
+- ❤️ Passionate about **DevSecOps, SRE practices, RBAC, Secrets Management, and Network Policies**.
 
 ---
 
-### 💻 Tech Stack & Skills
+### 🌱 What I'm Currently Working On
+- 🔭 Building secure CI/CD pipelines integrated with security scanning tools like **Checkov** and **Trivy**.
+- 🚀 Exploring advanced **Kubernetes** solutions for large-scale container orchestration.
+- 🛡️ Implementing network security policies in Kubernetes using **Calico**.
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Fargate](https://img.shields.io/badge/Fargate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Checkov](https://img.shields.io/badge/Checkov-232F3E?style=for-the-badge&logo=terraform&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-232F3E?style=for-the-badge&logo=security&logoColor=white)
-![Secrets Management](https://img.shields.io/badge/Secrets-232F3E?style=for-the-badge&logo=hashicorp-vault&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=github&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+---
+
+### 🚀 Future Goals
+- 🎓 Pursuing advanced cloud security certifications, such as **AWS Certified Security - Specialty**.
+- 🤖 Contributing to open-source projects in the DevSecOps space.
+- ✍️ Writing in-depth technical articles on Secrets Management and Infrastructure as Code (IaC ).
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<table>
+  <tr>
+    <td align="center"><strong>Cloud Platforms</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+      <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Infrastructure as Code (IaC )</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+      <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="CloudFormation"/>
+      <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Containers & Orchestration</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+      <img src="https://img.shields.io/badge/Fargate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Fargate"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>CI/CD & Scripting</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Security & Monitoring</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Checkov-5A4493?style=for-the-badge&logo=checkov&logoColor=white" alt="Checkov"/>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+      <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="HashiCorp Vault"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats
-![Lama's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamaAlmassry&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LamaAlmassry&layout=compact&theme=radical&langs_count=10)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LamaAlmassry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Lama's GitHub Stats"/>
+    
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamaAlmassry&layout=compact&theme=dracula&langs_count=10" alt="Top Languages"/>
+    
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LamaAlmassry&theme=dracula" alt="GitHub Streak"/>
+</div>
 
 ---
+
+### 📫 Get in Touch
+
+<p align="center">
+  <a href="https://linkedin.com/in/lama-almassry">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@massrylama">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/LamaAlmassry">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
+  </a>
+</p>
 
 <div align="center">
   <p>✨ Thank you for visiting my profile! ✨</p>
