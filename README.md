@@ -59,7 +59,6 @@ A DevSecOps Engineer specializing in designing, automating, and securing cloud i
   <img src="https://github-readme-stats.vercel.app/api?username=LamaAlmassry&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Lama's GitHub Stats"/>
     
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LamaAlmassry&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -75,10 +74,7 @@ A DevSecOps Engineer specializing in designing, automating, and securing cloud i
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
-  </a>
-</p>
+
 
 <div align="center">
   <p>✨ Thank you for visiting my profile! ✨</p>
